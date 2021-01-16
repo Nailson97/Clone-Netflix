@@ -17,7 +17,7 @@ body {
 .main {
     position:relative;
     height:680px;
-    background: url(/img/background.jpg) center;
+    background: url(../img/background.jpg) center;
     background-size: 100%;
     display:flex;
     align-items: center;
@@ -59,9 +59,7 @@ body {
     right:0;
     bottom: 0;
 }
-.form-cta {
-    
-}
+
 .form-cta input {
     width:450px;
     height:58px;
@@ -84,7 +82,7 @@ body {
     border:none;
     margin:0 auto;
     padding-right:10px;
-    background-image: url(/img/next.png);
+    background-image: url(../img/next.png);
     background-position: 90%;
     background-repeat: no-repeat;
 }
